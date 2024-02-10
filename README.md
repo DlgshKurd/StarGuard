@@ -34,4 +34,6 @@ To modify the list of specified words and emails to be filtered, update the `bad
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+## Issues
 
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/StarGuard/issues).
