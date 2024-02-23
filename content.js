@@ -21,6 +21,7 @@ function filterContent(element) {
     }
 }
 
+
 function observeDOMChanges() {
     const observer = new MutationObserver(mutations => {
         mutations.forEach(mutation => {
