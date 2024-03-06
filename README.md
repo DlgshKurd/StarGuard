@@ -36,4 +36,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/StarGuard/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/DelgshSeli/StarGuard/issues).
